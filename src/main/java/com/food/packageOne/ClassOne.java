@@ -10,6 +10,8 @@ public class ClassOne {
 		// TODO Auto-generated method stub
 		System.out.println("Print");
 		Thread.sleep(3000);
+		System.out.println("Print");
+		Thread.sleep(3000);
 	}
 
 }
